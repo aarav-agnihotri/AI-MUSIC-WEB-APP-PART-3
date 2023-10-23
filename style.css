@@ -1,0 +1,13 @@
+.heading_div{
+margin-left: 10px;
+margin-right: 10px;
+    width: 100%;
+    
+    box-shadow: 5px 5px 5px blue;
+}
+
+canvas{
+
+    background-color: black;
+    
+}
